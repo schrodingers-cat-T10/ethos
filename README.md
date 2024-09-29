@@ -1,7 +1,10 @@
 # 01INSTRUCTORs
 ## Documentation 
 https://drive.google.com/file/d/1WS4fyfKD-nP76QDHS7lXBAd0hAZDIWgN/view?usp=sharing
-# Demo walkthrough 
+
+# Generated Prototype of Few examples  
+
+![image](https://github.com/user-attachments/assets/07c76b4e-dba8-4465-acd0-70e7d88ca9af)
 
 ## Overview
 This ChatBot engages users in natural, coherent conversations on a wide range of topics. Utilizing advanced language models like GPT, the ChatBot understands and responds to user prompts while maintaining context for a more personalized experience.
