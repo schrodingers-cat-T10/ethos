@@ -73,3 +73,7 @@ To get a local copy up and running, follow these steps:
    git clone https://github.com/yourusername/chatbot-project.git
 ```bash
    pip install -r requirements.txt
+```
+2.tools
+```bash
+!pip install -q git+https://github.com/gathnexadmin/Linkedin_Automation_with_Generative_AI.git
