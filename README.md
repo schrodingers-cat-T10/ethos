@@ -2,7 +2,7 @@
 ## Documentation 
 https://drive.google.com/file/d/1WS4fyfKD-nP76QDHS7lXBAd0hAZDIWgN/view?usp=sharing
 
-# Generated Prototype of Few examples  
+# Generated Prototype of Few examples  (tools.py is in working state for fetching linkedin id and scarpe , analyse also main post in linked in after generating content 
 
 ![image](https://github.com/user-attachments/assets/07c76b4e-dba8-4465-acd0-70e7d88ca9af)
 
