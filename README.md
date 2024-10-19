@@ -1,6 +1,6 @@
 # 01INSTRUCTORs
 ## Documentation 
-https://drive.google.com/file/d/1WS4fyfKD-nP76QDHS7lXBAd0hAZDIWgN/view?usp=sharing
+https://docs.google.com/document/d/1Gvt_nXbaN7JOL7cfwCTKZYioSXCJT_yF551a3cAjFRk/edit?tab=t.0
 
 
 ## NOT JUST YOUR TYPICAL CHATBOT -- MEET "YOUR BUDDY "
