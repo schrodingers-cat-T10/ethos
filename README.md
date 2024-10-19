@@ -3,7 +3,7 @@
 https://drive.google.com/file/d/1WS4fyfKD-nP76QDHS7lXBAd0hAZDIWgN/view?usp=sharing
 
 
-## Overview
+## NOT JUST YOUR TYPICAL CHATBOT -- MEET "YOUR BUDDY "
 This ChatBot engages users in natural, coherent conversations on a wide range of topics. Utilizing advanced language models like GPT, the ChatBot understands and responds to user prompts while maintaining context for a more personalized experience.
 
 ## Features
