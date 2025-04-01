@@ -328,13 +328,13 @@ async def chatbot(input_text: str = Form(...), file: UploadFile = File(None)):
                 shutil.copyfileobj(file.file, buffer)
             print(f"File saved as {file_location}")
 
-        # Handle the chatbot input_text (logic remains unchanged)
+      
         result = agent_executor.invoke({"input": input_text})
         return {"response": result}
     except Exception as e:
-        print(f"Error details: {e}")  # Print the error details for debugging
+        print(f"Error details: {e}") 
         raise HTTPException(status_code=500, detail=f"Error: {str(e)}")
 
-# Run FastAPI server (if running locally)
+
 if __name__ == "__mains__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
